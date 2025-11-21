@@ -4,4 +4,5 @@
 // Write your JavaScript code.
 //
 //
-// Issuer No.5
+// Issue No.5
+// Issue No.4
