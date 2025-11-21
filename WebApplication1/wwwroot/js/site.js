@@ -4,3 +4,5 @@
 // Write your JavaScript code.
 //
 //
+// Issue No.5
+// Issue No.4
